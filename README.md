@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Goni%20Archive&fontSize=70)
-...
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Wellcome&fontSize=70)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jardin00&show_icons=true&theme=radical)
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
