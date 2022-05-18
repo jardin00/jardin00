@@ -14,10 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Wellcome&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=afeeee&height=200&section=header&text=Wellcome&fontSize=70)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jardin00&show_icons=true&theme=radical)
+<div align=center><h1>✨ Studying ✨</h1></div><br>
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+**Tech Stack**
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+</div></br>
+</br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+**Tools**
+<div align=center> 
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
+  <img src="https://img.shields.io/badge/Onshape-86E57F?style=for-the-badge&logo=Onshape&logoColor=white">
+</div></br>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ptduck00)](https://solved.ac/ptduck00)
