@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 </br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ptduck00)](https://solved.ac/ptduck00)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ptduck00)](https://solved.ac/ptduck00)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jardin00&layout=compact&theme=tokyonight)
