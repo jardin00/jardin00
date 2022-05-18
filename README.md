@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=afeeee&height=200&section=header&text=Wellcome&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=52fef2&height=200&section=header&text=Wellcome&fontSize=70)
 
 <div align=center><h1>✨ Studying ✨</h1></div><br>
 
