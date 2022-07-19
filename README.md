@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 **CAD**
 <div align=center> 
   <img src="https://img.shields.io/badge/Onshape-86E57F?style=for-the-badge&logo=Onshape&logoColor=white">
-  <img src="https://img.shields.io/badge/AutoCad-0696D7?style=for-the-badge&logo=Autodesk&logoColor=white">
 </div></br>
 
 **Tools**
