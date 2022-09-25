@@ -24,10 +24,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 </div></br>
 
-**CAD**
+<!--**CAD**
 <div align=center> 
   <img src="https://img.shields.io/badge/Onshape-86E57F?style=for-the-badge&logo=Onshape&logoColor=white">
-</div></br>
+</div></br>-->
 
 **Tools**
 <div align=center> 
