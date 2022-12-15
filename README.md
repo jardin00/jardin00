@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=52fef2&height=300&section=header&text=Wellcome👋&fontSize=70)
 
-<div align=center><h1>📚 Studying 📚</h1></div><br>
-
-**Programming Language**
+<div align=center><h1>📚 Programming Language 📚</h1></div><br>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -29,7 +27,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Onshape-86E57F?style=for-the-badge&logo=Onshape&logoColor=white">
 </div></br>-->
 
-**Tools**
+
+<div align=center><h1>🛠 Tools 🛠</h1></div><br>
 <div align=center> 
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
