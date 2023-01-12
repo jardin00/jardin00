@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=52fef2&height=300&section=header&text=Wellcome👋&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=52fef2&height=250&section=header&text=Wellcome👋&fontSize=60)
 
-<div align=center><h2>📚 Programming Language 📚</h2></div><br>
+<div align=center><h3>📚 Programming Language 📚</h3></div><br>
 <div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
 </div></br>
 
 <!--**CAD**
@@ -28,12 +29,19 @@ Here are some ideas to get you started:
 </div></br>-->
 
 
-<div align=center><h2>🛠 Tools 🛠</h2></div><br>
-<div align=center> 
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
-  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
+<div align=center><h3>🛠 Tools 🛠</h3></div><br>
+<div align=center>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+  </br>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
+  <img src="https://img.shields.io/badge/CLion-000000?style=flat&logo=CLion&logoColor=white">
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white">
 </div></br>
 </br>
 
