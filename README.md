@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=52fef2&height=250&section=header&text=Wellcome👋&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=240&section=header&text=Wellcome👋&fontSize=50&fontAlignY=45)
 
 <div align=center><h3>📚 Programming Language 📚</h3></div><br>
 <div align=center> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"> -->
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
 </div></br>
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
-  <img src="https://img.shields.io/badge/CLion-000000?style=flat&logo=CLion&logoColor=white">
+  <!--<img src="https://img.shields.io/badge/CLion-000000?style=flat&logo=CLion&logoColor=white">-->
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white">
 </div></br>
 </br>
