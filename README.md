@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=240&section=header&text=Wellcome👋&fontSize=50&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=240&section=header&text=Welcome👋&fontSize=50&fontAlignY=45)
 
 <div align=center><h3>📚 Programming Language 📚</h3></div><br>
 <div align=center> 
